@@ -20,8 +20,8 @@
     "prepack": "npm run compile"
   },
   "dependencies": {
-    "@aws-sdk/client-sns": "^3.535.0",
-    "@aws-sdk/client-sqs": "^3.536.0",
+    "@aws-sdk/client-sns": "^3.693.0",
+    "@aws-sdk/client-sqs": "^3.693.0",
     "@msgpack/msgpack": "^2.8.0",
     "debug": "~4.3.4"
   },
